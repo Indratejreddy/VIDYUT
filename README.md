@@ -48,9 +48,9 @@ To tackle this problem, we are developed an AI-proctored exam that tracks candid
 
 ## 👉 LIVE DEMO: https://vidyut.netlify.app/
 
-## 🎁 Presentation ----> https://www.canva.com/design/DAFcDAyzF7w/13V_h7Dh7j_qOaOvvRy-oA/watch?utm_content=DAFcDAyzF7w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+## 🎁 Presentation ----> 
 
-## 📷 Video ----> https://www.youtube.com/watch?v=IW7n_jTxMuI
+## 📷 Video ---->
 
 ## Mobile View Of Landing Page (FORGOT TO SHOW IN VIDEO)
 
