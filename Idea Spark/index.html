@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="stylesheet" href="./style_api.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  </head>
+  <body>
+    <script src="./api.js" type="module"></script>
+    <div class="container">
+      <nav>
+        <div>
+          <img src="./assets/LOGO.svg" />
+        </div>
+        <div>
+          <button>About Us</button>
+          <button onclick="model()">Get Started</button>
+        </div>
+      </nav>
+
+      <main class="main">
+        <div class="content">
+          <h1>Build Your Portfolio With</h1>
+          <h2>Real World Projects</h2>
+          <article>
+            Welcome to IDEA-SPARK, where you can build real world projects which
+            you can show case to clients or HR Recruiters and innovators around
+            the globe. Showcase your projects, learn cutting-edge skills, join
+            government programs, and connect with a like-minded community.
+            <br />
+            <br />
+            Our platform offers a wide range of features and tools to help you
+            unleash your creativity and bring your coding skills to life. From
+            private chat and community forums to interactive courses and ATL
+            programs, you'll find everything you need to take your skills and
+            projects to the next level.
+          </article>
+          <div class="btns">
+            <button>Know More</button>
+            <button class="popup-btn">Get Started</button>
+          </div>
+        </div>
+        <img src="./assets/bg.svg" class="bg" />
+      </main>
+
+      <div class="popups-cont">
+        <div class="popups-cont__overlay"></div>
+        <div class="popup">
+          <div class="popup__pieces"></div>
+          <div class="popup__content">
+            <div class="bar"></div>
+            <div class="popup__close"></div>
+            <aside>
+              <li>Website Development</li>
+              <li>UI/UX Website Design</li>
+              <li>Mobile Application Development</li>
+              <li>Desktop Application Development</li>
+              <li>Game Development</li>
+              <li>Artificial Inteligence & Machine Learning</li>
+              <li>Data Science</li>
+            </aside>
+            <main id="modal_output">
+              <form class="form" id="form">
+                <h2>Website Development</h2>
+                <div class="parent">
+                  <select class="sub-categories" id="subCategory">
+                    <option value="option1">Front End Development</option>
+                    <option value="option2">Backend End Development</option>
+                    <option value="option3">Full Stack Development</option>
+                  </select>
+                </div>
+
+                <div class="parent">
+                  <input  type="text" id="skills" class="form__input tagline" autocomplete="off" placeholder=" " required/>
+                  <label class="form__label">Enter Your Skills...</label>  
+                </div>
+
+                <div class="parent next">
+                  <input  type="text" id="projectDuration" class="form__input tagline" autocomplete="off" placeholder=" " required/>
+                  <label class="form__label">Enter Project Duration</label>  
+                </div>
+                <div class="parent next">
+                  <input type="text" id="experience" class="form__input tagline" autocomplete="off" placeholder=" " required/>
+                  <label class="form__label">Experience Out Of 10</label>  
+                </div>
+
+                <div class="parent next">
+                  <input id="submit" type="submit"/>
+                </div>
+              </form>
+            </main>
+          </div>
+        </div>
+      </div>
+    </div>
+
+ 
+
+    <script src="./script.js"></script>
+  </body>
+</html>
