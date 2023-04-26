@@ -118,7 +118,7 @@ NEED TO WRITE FOLDER STRUCTURE DUE TO LACK OF TIME POSTPONED
 Clone the project
 
 ```bash
-  git clone https://github.com/Srinivasan-Akash/Drum-Kit.git
+  git clone https://github.com/Indratejreddy/VIDYUT
 ```
 
 Go to the project directory
