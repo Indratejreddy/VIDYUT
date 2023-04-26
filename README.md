@@ -46,7 +46,7 @@ Online exams may not reflect students’ true learning or abilities, as they may
 
 To tackle this problem, we are developed an AI-proctored exam that tracks candidates and ensures that they are not cheating. Additionally, we are incorporating features that make it possible for blind, deaf, and mute students to take the exam.
 
-## 👉 LIVE DEMO:  https://rajasthan-hackathon.netlify.app
+## 👉 LIVE DEMO: https://vidyut.netlify.app/
 
 ## 🎁 Presentation ----> https://www.canva.com/design/DAFcDAyzF7w/13V_h7Dh7j_qOaOvvRy-oA/watch?utm_content=DAFcDAyzF7w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
