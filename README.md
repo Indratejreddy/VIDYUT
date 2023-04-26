@@ -50,7 +50,7 @@ To tackle this problem, we are developed an AI-proctored exam that tracks candid
 
 ## 🎁 Presentation ----> 
 
-## 📷 Video ---->
+## 📷 Video ----> https://www.youtube.com/watch?v=5_7lXxtZ74A
 
 ## Mobile View Of Landing Page (FORGOT TO SHOW IN VIDEO)
 
